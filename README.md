@@ -10,4 +10,5 @@ This project involves data analysis for Vrinda Store, a retail business that sel
   - **Slicers:** Added to the Pivot Tables and Pivot Charts for interactive filtering and analysis. Allows the user to filter data by months, product categories, and more.
   - **Dashboard:** The final output is an interactive dashboard, which presents the key insights in a visually engaging manner. This includes sales performance, product trends.
     
+    
 ![image](https://github.com/user-attachments/assets/2b78235a-88ab-458b-9dad-028aafee6ebd)
